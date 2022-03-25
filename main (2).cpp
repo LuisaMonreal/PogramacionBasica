@@ -40,3 +40,4 @@ int nummayor (int x, int y)
     
     return rs;
 }
+//
